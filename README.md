@@ -1,9 +1,15 @@
 # emojify.js
 
+[![Maintenance](https://img.shields.io/maintenance/no/red.svg)]()
+
 [![npm version][ico-npm]][package-npm]
 [![Bower version][ico-bower]][package-bower]
 [![MIT Licensed][ico-license]][license]
 [![Gitter chat][ico-gitter]][gitter]
+
+---
+
+> This project is currently unmaintained.
 
 ---
 
@@ -42,11 +48,11 @@ emojify.js is now available on cdnjs - https://cdnjs.com/libraries/emojify.js
 
 Add this to the rest of your stylesheet imports:
 
-`<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/emojify.js/1.0.1/emojify.min.css" />`
+`<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/emojify.js/1.1.0/css/basic/emojify.min.css" />`
 
 Then add this to your Javascript code:
 
-`<script src="//cdnjs.cloudflare.com/ajax/libs/emojify.js/1.0.1/emojify.min.js"></script>`
+`<script src="//cdnjs.cloudflare.com/ajax/libs/emojify.js/1.1.0/js/emojify.min.js"></script>`
 
 ### Via Bower
 
